@@ -1,6 +1,6 @@
 -  Hi, I’m @Sidatii
--  I’m interested in data analytics and web dev.
--  I’m currently learning data science and web dev.
+-  I’m interested in data science and web dev.
+-  I’m currently learning Web dev.
 -  How to reach me: whatsapp number: +212655425113
 
 <!---
