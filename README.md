@@ -1,7 +1,7 @@
 -  Hi, I’m @Sidatii
 -  I’m interested in data science and web dev.
 -  I’m currently learning Web dev.
--  How to reach me: Phone number: +212655425113
+-  How to reach out to me: https://www.linkedin.com/in/sidati-nouhi/
 
 <!---
 Sidatii/Sidatii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
