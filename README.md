@@ -1,4 +1,4 @@
-# Hello Devs, I’m @Sidatii <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=dark">
+# Hello Devs, I’m @Sidatii <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=dracula">
 
 
 
