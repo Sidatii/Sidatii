@@ -1,5 +1,4 @@
-# Hello Devs, I’m @Sidatii <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=gotham">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?"username=sidatii&show_icons=true&theme=gotham)
+# Hello Devs, I’m @Sidatii <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=vue-dark">
 
 ## How to reach out to me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidati-nouhi/)
