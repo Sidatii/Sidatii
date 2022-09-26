@@ -4,10 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidati-nouhi/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sidatnouhi@gmail.com)](mailto:sidatnouhi@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidatii)    
-#WISDOM
+#
  
     
     
-<img align='right' img width="495cm" img height="0cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidatii&layout=compact&theme=vue-dark" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidatii&layout=compact&theme=vue-dark" />
 
 
