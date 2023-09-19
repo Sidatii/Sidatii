@@ -5,7 +5,9 @@
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sidatnouhi@gmail.com)](mailto:sidatnouhi@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidatii)    
 #
- 
+
+### 💻 Tech & Tools Preference
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,vue,vite,php,laravel,mysql,java,linux,idea,vscode,wordpress,git,github,gitlab,postman,figma,xd)](https://skills.thijs.gg)
     
     
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidatii&layout=compact&theme=vue-dark" />
