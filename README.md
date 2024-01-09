@@ -1,4 +1,4 @@
-# Hello Devs, I’m @Sidatii <img align='right' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=vue-dark"> 
+# Hello Devs, I’m @Sidatii
     
 ## How to reach out to me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidati-nouhi/)
@@ -7,17 +7,11 @@
 #
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,tailwind,vue,vite,php,laravel,mysql,java,linux,idea,vscode,wordpress,git,github,gitlab,postman,figma,xd)](https://skills.thijs.gg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidatii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
     
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidatii&layout=compact&theme=vue-dark" />
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=sidatii&show_icons=true&theme=dark">
 
-## Education
-<div>
-   <a href='https://youcode.ma/'>
-     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:100px'>
-  </a>
-</div>
 
 
 
