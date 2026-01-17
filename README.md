@@ -9,7 +9,7 @@ By day, I'm an **Mid-level Software Developer** at [Eurafric Information](https:
 
 By night, I'm that person implementing and discovering how tools we use daily work behind the scenes using C/C++ because that's how I have fun. Currently working through:
 
-- 🔨 Building **xpscan** – a high performance port scanner in C++
+- 🔨 Building **genc** – a better build system for C.
 - 🌍 Planning my own web server, git implementation, and database (because I want to)
 - 💡 Diving deep into low-level systems programming and embedded systems
 - ✉️ You can contact me at [sidatinouhi@gmail.com](mailto:sidatinouhi@gmail.com)
