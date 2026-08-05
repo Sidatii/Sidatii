@@ -5,7 +5,7 @@ Software engineer
 -----------------
 A simple person trying to understand everything in the world.
 
-By day, I'm an **Mid-level Software Developer** at [SAHAM BANK](https://www.sahambank.com/), working on core banking systems, financial integrations and insurance.
+By day, I'm an **Mid-level Software Engineer** at [SAHAM BANK](https://www.sahambank.com/), working on core banking systems, financial integrations and insurance.
 
 By night, I'm that person implementing and discovering how tools we use daily work behind the scenes using C/C++ because that's how I have fun. Currently working through:
 
